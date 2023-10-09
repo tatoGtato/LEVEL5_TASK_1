@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654466315714",
+    "project_id": "mad-level-5-task-1-451f1",
+    "storage_bucket": "mad-level-5-task-1-451f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654466315714:android:22400b25c0628ffb72525b",
+        "android_client_info": {
+          "package_name": "com.example.level5_task_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA06MytE2YXAWCnUHi5Qzg8RiSuOKdgM_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
